@@ -1,4 +1,4 @@
-# Enigma.py (UNFINISHED)
+# Enigma.py
 
 A simple python implementation of the notorious WW2 Enigma Machine.
 https://www.wikiwand.com/en/Enigma_machine
